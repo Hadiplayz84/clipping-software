@@ -7,7 +7,7 @@ A desktop video clipping application for Windows.
 
 Visit the Releases page to download the latest version:
 
-https://github.com/YOUR_GITHUB_USERNAME/clipping-software/releases
+https://github.com/Hadiplayz84/clipping-software/releases
 
 ## Features
 
